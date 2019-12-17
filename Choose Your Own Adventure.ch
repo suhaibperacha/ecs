@@ -11,7 +11,8 @@ int reply;
 int b;
 int c;
 int Sum;
-int a;int age=14;
+int a;
+int age=14;
 string_t name2;
 
 //intialize
